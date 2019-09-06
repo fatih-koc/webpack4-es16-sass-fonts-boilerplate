@@ -1,0 +1,28 @@
+// Inverted Triangle CSS Naming Convention
+
+// Settings
+
+@import './settings/conf';
+@import './settings/fonts';
+
+//tools
+@import './tools/reset';
+@import './tools/mixins';
+
+//Generic
+@import './generic/typo';
+@import './generic/forms';
+@import './generic/layout';
+
+//elements
+@import './elements/content';
+@import './elements/blocks';
+
+//objects
+@import './objects/object';
+
+//components
+@import './components/header';
+
+
+
